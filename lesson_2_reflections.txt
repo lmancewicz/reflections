@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	I create a new repository. I need it for doing commmits.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	I can hold together files which I want to commit at once.
+
